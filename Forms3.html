@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="style3.css">
+    <script src="java3.js" defer></script>
+    <title></title>
+</head>
+
+<body>
+    <div class="form-container">
+        <div class="form-wrapper">
+            <form id="signupForm" onsubmit="validateSignupForm(event)">
+                <h2>Sign Up</h2>
+                <label for="username">Username*</label>
+                <input type="text" id="username" name="username" placeholder="Username*" required>
+
+                <label for="password">Password*</label>
+                <input type="password" id="password" name="password" placeholder="Password*" required>
+
+                <label for="birthdate">Birthdate*</label>
+                <input type="date" id="birthdate" name="birthdate" required>
+
+                <label for="email">Email*</label>
+                <input type="email" id="email" name="email" placeholder="Email*" required>
+
+                <label for="gender">Gender</label>
+                <select id="gender" name="gender">
+                    <option value="" selected disabled>Select Gender</option>
+                    <option value="male">Male</option>
+                    <option value="female">Female</option>
+                    <option value="other">Other</option>
+                </select>
+
+                <label for="phoneNumber">Phone Number</label>
+                <input type="tel" id="phoneNumber" name="phoneNumber" placeholder="Phone Number">
+
+                <label for="zipCode">Zip Code</label>
+                <input type="text" id="zipCode" name="zipCode" placeholder="Zip Code">
+
+                <label for="country">Country</label>
+                <input type="text" id="country" name="country" placeholder="Country">
+
+                <input type="submit" value="Register">
+            </form>
+        </div>
+        <div class="form-wrapper">
+            <form id="signInForm" onsubmit="validateSignInForm(event)">
+                <h2>Sign In</h2>
+                <label for="signInUsername">Username*</label>
+                <input type="text" id="signInUsername" name="signInUsername" placeholder="Username*" required>
+
+                <label for="signInPassword">Password*</label>
+                <input type="password" id="signInPassword" name="signInPassword" placeholder="Password*" required>
+
+                <input type="submit" value="Sign In">
+            </form>
+        </div>
+    </div>
+</body>
+
+</html>
