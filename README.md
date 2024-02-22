@@ -1,6 +1,12 @@
-![Screenshot 2024-02-22 220158](https://github.com/Abdul-Rehman6/Login-and-SignUp-Form/assets/158306204/f815653b-f4a3-427d-af58-b29c66625265)
-![Screenshot 2024-02-22 220207](https://github.com/Abdul-Rehman6/Login-and-SignUp-Form/assets/158306204/df3d10b2-ef4e-40e0-8f85-97c867866bdf)
-![Screenshot 2024-02-22 220220](https://github.com/Abdul-Rehman6/Login-and-SignUp-Form/assets/158306204/ed7c5047-149f-4cfa-b9f8-63eb2cccc48a)
-![Screenshot 2024-02-22 220256](https://github.com/Abdul-Rehman6/Login-and-SignUp-Form/assets/158306204/0db62bfe-74f1-4d6a-99e5-55e37e2d271a)
-![Screenshot 2024-02-22 220346](https://github.com/Abdul-Rehman6/Login-and-SignUp-Form/assets/158306204/cdef818e-2d86-4fa8-a8ce-76593ce1814b)
-![Screenshot 2024-02-22 220352](https://github.com/Abdul-Rehman6/Login-and-SignUp-Form/assets/158306204/ba50872e-10a6-43dd-b986-323008def054)
+![Screenshot 2024-02-22 220352](https://github.com/Abdul-Rehman6/Login-and-SignUp-Form/assets/158306204/5f568547-206a-4d4c-87e3-beca6d47a303)
+
+![Screenshot 2024-02-22 220230](https://github.com/Abdul-Rehman6/Login-and-SignUp-Form/assets/158306204/4d9e6b91-97a4-47a9-aecd-30f62a53dbac)
+
+
+![Screenshot 2024-02-22 222317](https://github.com/Abdul-Rehman6/Login-and-SignUp-Form/assets/158306204/f94909ad-0986-4a7c-9a8b-6c41aa6fd13a)
+
+
+![Screenshot 2024-02-22 222338](https://github.com/Abdul-Rehman6/Login-and-SignUp-Form/assets/158306204/a8188d50-ea1b-4dc3-a7f2-307d877bfb2b)
+
+
+![Screenshot 2024-02-22 222441](https://github.com/Abdul-Rehman6/Login-and-SignUp-Form/assets/158306204/95964bd4-77dc-4c37-bf0a-a1a4931187bb)
